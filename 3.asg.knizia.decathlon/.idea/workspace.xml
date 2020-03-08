@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="092065be-da15-41ab-9086-81180e1dff8b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YmEyin8feiPZJPF0ls8CdcQ1Ih" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="092065be-da15-41ab-9086-81180e1dff8b" name="Default Changelist" comment="" />
+      <created>1583539626868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583539626868</updated>
+      <workItem from="1583539634034" duration="455000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="559" y="269" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583539915004">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state x="559" y="269" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1418.759@0.0.1418.759" timestamp="1583539915004" />
+  </component>
+</project>

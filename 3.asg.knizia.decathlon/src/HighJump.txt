@@ -1,0 +1,14 @@
++-------------------------------------------+
+| Jumping starts at the hieght of 10 and is |
+| increased by 2 each turn. Players take    |
+| turn for each height or can decide to     |
+| skip it. You have three attempts for each |
+| Throw all five dice to equal or exceeds   |
+| the current hieght.                       |
++-------------------------------------------+
+| Dice: 5                                   |
+| Throws: 3 per hieght                      |
++-------------------------------------------+
+| SCORING:                                  |
+| The maximum hieght which was mastered     |
++-------------------------------------------+

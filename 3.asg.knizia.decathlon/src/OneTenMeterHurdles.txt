@@ -1,0 +1,9 @@
++-------------------------------------------+
+| Throw all five dice, up to 5 times, until |
+| you are satisfied with the result.        |
++-------------------------------------------+
+| Dice: 5                                   |
+| Throws: 5                                 |
++-------------------------------------------+
+| SCORING:                                  |
+| Total value of all five dice              |
